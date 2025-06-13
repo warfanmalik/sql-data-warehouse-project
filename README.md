@@ -1,2 +1,2 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with SQL server
+# Datawarehouse Project
+This is my test project.
